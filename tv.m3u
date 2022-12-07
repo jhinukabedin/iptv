@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-logo="https://iili.io/HC820mb.png" group-title="Bangladeshi TV ",NTV
 https://edge4.bioscopelive.com/hls/anonymous/P8X_8_2qnXc4lbCxaqnDgQ/1670309865/ntv_hi/index.m3u8
 
-#EXTINF:-2 tvg-logo="https://iili.io/HC820mb.png" group-title="Sport",T Sport
+#EXTINF:-2 tvg-logo="https://iili.io/HC82hrP.png" group-title="Sport",T Sport
 http://103.143.235.50:8080/102/102.m3u8
 
-#EXTINF:-3 tvg-logo="https://iili.io/HC820mb.png" group-title="Sport",Sony Live
+#EXTINF:-3 tvg-logo="https://iili.io/HCb9QiN.png" group-title="Sport",Sony Live
 https://pubads.g.doubleclick.net/ssai/event/SU7iSpwoS3yf6HkUne_Vhg/master.m3u8
