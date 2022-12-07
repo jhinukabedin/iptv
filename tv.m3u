@@ -10,3 +10,13 @@ https://pubads.g.doubleclick.net/ssai/event/SU7iSpwoS3yf6HkUne_Vhg/master.m3u8
 
 #EXTINF:-3 tvg-logo="https://iili.io/HCb9QiN.png" group-title="Sport",Sony Live Hindi
 https://pubads.g.doubleclick.net/ssai/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
+#EXTINF:-1 tvg-id="2017" group-title="News" tvg-language="Urdu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Munsif_TV.png",Munsif TV
+http://3.110.187.2/tsjiotv/live.php?c=Munsif_TV&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="438" group-title="Sports" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Hindi.png",Jio Cricket Hindi HD
+http://3.110.187.2/tsjiotv/live.php?c=Jio_Cricket_Hindi&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="431" group-title="Sports" tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Tamil.png",Jio Cricket Tamil HD
+http://3.110.187.2/tsjiotv/live.php?c=Jio_Cricket_Tamil&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="432" group-title="Sports" tvg-language="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Telugu.png",Jio Cricket Telugu HD
+http://3.110.187.2/tsjiotv/live.php?c=Jio_Cricket_Telugu&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="433" group-title="Sports" tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Kannada.png",Jio Cricket Kannada HD
+http://3.110.187.2/tsjiotv/live.php?c=Jio_Cricket_Kannada
