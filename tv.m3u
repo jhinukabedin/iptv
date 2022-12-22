@@ -8,6 +8,9 @@ http://103.143.235.50:8080/102/102.m3u8
 #EXTINF:-3 tvg-logo="https://iili.io/HCb9QiN.png" group-title="Sport",Sony Live English
 https://pubads.g.doubleclick.net/ssai/event/SU7iSpwoS3yf6HkUne_Vhg/master.m3u8
 
+#EXTINF:-3 tvg-logo="https://iili.io/HCb9QiN.png" group-title="Sport",Sony Live English 1
+https://pubads.g.doubleclick.net/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
+
 #EXTINF:-3 tvg-logo="https://iili.io/HCb9QiN.png" group-title="Sport",Sony Live Hindi
 https://pubads.g.doubleclick.net/ssai/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
 #EXTINF:-1 tvg-id="2017" group-title="News" tvg-language="Urdu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Munsif_TV.png",Munsif TV
