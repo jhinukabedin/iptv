@@ -5,4 +5,39 @@ http://12.1.1.1:8082/T-Sports/tracks-v1a1/mono.m3u8?token=c1bfba529ab30e913a72f7
 #EXTINF:-1 tvg-logo="https://iili.io/HC820mb.png" group-title="Bangladeshi TV ", Arif Live 
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://iili.io/HC820mb.png" group-title="Bangladeshi TV ", Arif Live 
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
+
+#EXTINF:-1,Live Sports-bdxtream
+http://103.78.255.178:8080/starselect1/index.m3u8
+#EXTINF:-1,Live Sports bdxtream
+http://45.127.244.7:8080/hls/channel8.m3u8
+#EXTINF:-1,Live Sports bdxtream
+http://45.127.244.7:8080/hls/channel14.m3u8
+#EXTINF:-1,RTK 1 bdxtream
+http://162.55.88.21/rtksatstream/rtksat.stream/index.m3u8
+#EXTINF:-1,TV MAX bdxtream
+https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1,ESPN + 🇺🇸
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:-1,EKATTOR TV
+http://103.118.76.146:1935/plex/ekattortv.stream/chunks.m3u8
+#EXTINF:-1,GAZI TV
+http://45.127.244.7:8080/hls/channel2.m3u8
+#EXTINF:-1,STAR JALSHA
+http://103.118.76.146:1935/plex/Star-jalsha.stream/playlist.m3u8
+#EXTINF:-1,Nexus TV
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:-1,Zee Cinema HD
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:-1,Star Movies HD
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:-1,Backup2 Cartoon
+http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,Gazi TV HD2
+http://45.127.244.7:8080/hls/channel1.m3u8
+#EXTINF:-1,T Sports HD2
+http://45.127.244.7:8080/hls/channel3.m3u8
+#EXTINF:-1,Ananda TV
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
