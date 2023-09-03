@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1", tvg-name="T-Sport", tvg-country="Bangladesh", tvg-type="Sport", tvg-group="T-Sport", tvg-media="media", tvg-logo="https://iili.io/HC82hrP.png", group-title="Tsport", T Sport
+#EXTINF:-1 tvg-media="media", tvg-logo="https://iili.io/HC82hrP.png", group-title="Tsport", T Sport
 https://live.tsports.com/mobile_hls/tsports_live/auto.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/HC820mb.png" group-title="Bangladeshi TV ", Arif Live 
