@@ -5,3 +5,9 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://iili.io/2y60YAJ.jpg",T Sports 2
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iili.io/2y60YAJ.jpg",Sony PIX HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp",Sony MAX HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_max_hd_576/sony_max_hd_576.m3u8?bitrate=1000000&channel=sony_max_hd_576&gp_id
