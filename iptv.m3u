@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png" group-title="Sports", Go Live
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/SOMOY_TV_Logo.svg" group-title="Sports", Somoy TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/6/22/13/imgbin-china-central-television-cctv-headquarters-cctv-5-broadcasting-others-P4cJae2kcXseLWMDBAsR5Wqmj.jpg" group-title="Sports", CCTV 5  
 https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
 
@@ -19,3 +21,5 @@ https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", Toffee Live
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8?hdntl=Expires=1781989210~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ8X81_tqobQmvj9bpuZnvajGamU4bfsaAIQnX5fVyHnzJrqPGku_jN4Mp4c25ckI-ar7N0qcAiZLyP4A-04mJEJ
 
+#EXTINF:-1 tvg-logo="" group-title="Sports", WIN Sports 2
+https://banglalive.xyz/#https://banglalive.xyz/cors-proxy/https/1nyaler.streamhostingcdn.top/stream/32/index.m3u8
