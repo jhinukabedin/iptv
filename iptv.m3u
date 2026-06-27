@@ -31,7 +31,10 @@ https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_2000.m3u8?hdntl
 #EXTINF:-1 tvg-logo="" group-title="Sports", WIN Sports 2
 https://banglalive.xyz/#https://banglalive.xyz/cors-proxy/https/1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
-#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Sports", Fox Fifa 2026
+https://nhjjhhjhjjhfjj.pages.dev/1782538424/ac15e3ad3f5a4f61b8caf0a58e30aeea/ECh0_6J-b_axK0VjMUKRmYynS80J9d2OiU_T7F0JVc4/fox-usa.m3u8
+
+
 
 #EXTINF:-1 tvg-id="tvpsport" tvg-name="TVP Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_TVP_Sport.jpg/1280px-Logo_TVP_Sport.jpg" group-title="FIFA" channel-id="1",TVP Sport
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
