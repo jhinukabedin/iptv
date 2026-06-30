@@ -5,6 +5,9 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", Fussball TV1
 https://cdn011.viaplus.site/fussballtv1uhd-de.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Sports", FOX 4K
+https://cdn011.viaplus.site/fox4k-usa-1.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/SOMOY_TV_Logo.svg" group-title="Sports", Somoy TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 
