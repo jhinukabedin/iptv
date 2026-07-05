@@ -23,6 +23,41 @@ https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", Mahsun Sports
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
+#EXTINF:-1, FOX USA
+#EXTVLCOPT:http-origin=https://vileembeds.pages.dev
+#EXTVLCOPT:http-referrer=https://vileembeds.pages.dev
+https://inproviszon.st/fox-usa.m3u8
+
+#EXTINF:-1, FOX 4K USA
+#EXTVLCOPT:http-origin=https://vileembeds.pages.dev
+#EXTVLCOPT:http-referrer=https://vileembeds.pages.dev
+https://inproviszon.st/fox4k-usa.m3u8
+
+#EXTINF:-1, Telemundo USA
+#EXTVLCOPT:http-origin=https://vileembeds.pages.dev
+#EXTVLCOPT:http-referrer=https://vileembeds.pages.dev
+https://inproviszon.st/telemund0-usa.m3u8
+
+#EXTINF:-1, Fussball TV UHD DE
+#EXTVLCOPT:http-origin=https://vileembeds.pages.dev
+#EXTVLCOPT:http-referrer=https://vileembeds.pages.dev
+https://inproviszon.st/fussballtvuhd-de.m3u8
+
+#EXTINF:-1, TSN 1 CA
+#EXTVLCOPT:http-origin=https://vileembeds.pages.dev
+#EXTVLCOPT:http-referrer=https://vileembeds.pages.dev
+https://inproviszon.st/tsn1-ca.m3u8
+
+#EXTINF:-1, DAZN Mundial ES
+#EXTVLCOPT:http-origin=https://vileembeds.pages.dev
+#EXTVLCOPT:http-referrer=https://vileembeds.pages.dev
+https://inproviszon.st/daznmundial-es.m3u8
+
+#EXTINF:-1, CazeTV BR
+#EXTVLCOPT:http-origin=https://vileembeds.pages.dev
+#EXTVLCOPT:http-referrer=https://vileembeds.pages.dev
+https://inproviszon.st/cazetv-br.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_TVP_Sport.jpg/1280px-Logo_TVP_Sport.jpg" group-title="Sports", TVP Sports
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 
